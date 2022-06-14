@@ -1,5 +1,13 @@
 ### Hello dear World 👋
 
+<a href="https://github.com/kenhyuwa/kenhyuwa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eikaramba&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=14B8A6&bg_color=1F2937" alt="Ken's GitHub Stats"/>
+</a>
+
+<a href="https://github.com/kenhyuwa/kenhyuwa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eikaramba&hide=html&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=1F2937" alt="Ken's GitHub Stats"/>
+</a>
+
 I am **Eike Thies**, co-founder of [fileee](https://fileee.com), founder of [notificat](https://notific.at) and the creatness agency. I have a Master of Science in Information Systems and created several Apps, Websites and Services. My Skills:
 
 - 💻 Webtechnologies (Svelte, Vue.js, Aurelia, Angular)
