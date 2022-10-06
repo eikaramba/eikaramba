@@ -16,7 +16,7 @@ I am **Eike Thies**, co-founder of [fileee](https://fileee.com), founder of seve
 
 My Projects
 - [fileee](https://fileee.com)
-- [Notificat](https://fileee.com)
+- [Notificat](https://notific.at)
 - [Foodolyst](https://app.foodolyst.creatness.studio)
 - [Leihothek](https://leihothek.de)
 
