@@ -1,7 +1,7 @@
 ### Hello dear World 👋
 
 
-I am **Eike Thies**, co-founder of [fileee](https://fileee.com), founder of [notificat](https://notific.at) and the creatness agency. I have a Master of Science in Information Systems and created several Apps, Websites and Services. My Skills:
+I am **Eike Thies**, co-founder of [fileee](https://fileee.com), founder of several other Projects(see below) and the creatness agency. I have a Master of Science in Information Systems and created several Apps, Websites and Services. My Skills:
 
 - 💻 Webtechnologies (Svelte, Vue.js, Aurelia, Angular)
 - 📱 Native mobile Development
@@ -14,6 +14,11 @@ I am **Eike Thies**, co-founder of [fileee](https://fileee.com), founder of [not
 - 🎸 Music (Guitar, Piano, Vocals)
 - 🗣️ Speaker
 
+My Projects
+- [fileee](https://fileee.com)
+- [Notificat](https://fileee.com)
+- [Foodolyst](https://app.foodolyst.creatness.studio)
+- [Leihothek](https://leihothek.de)
 
 
 
